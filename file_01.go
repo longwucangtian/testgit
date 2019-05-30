@@ -19,4 +19,9 @@ func test1(){
 }
 func test2(){
 	fmt.Println("calednar2 第二次提交")
+	fmt.Println("calendar3 第一次提交")
+}
+
+func test3(){
+	fmt.Println("calendar3 第一次提交")
 }
