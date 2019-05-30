@@ -16,3 +16,7 @@ func main(){
 func test1(){
 	fmt.Println("master 第二轮第一次提交")
 }
+
+func test2(){
+	fmt.Println("calednar2 第二次提交")
+}
