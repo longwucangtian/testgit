@@ -12,3 +12,7 @@ func main(){
 	fmt.Println("master 第四次提交")
 	fmt.Println("master 第五次提交")
 }
+
+func test1(){
+	fmt.Println("master 第二轮第一次提交")
+}
