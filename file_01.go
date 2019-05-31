@@ -24,4 +24,5 @@ func test2(){
 
 func test3(){
 	fmt.Println("calendar3 第一次提交")
+	fmt.Printf("calednar3 第二次提交")
 }
